@@ -6,8 +6,9 @@ public class Greet {
     this.name = name;
   }
 
-  public void greetInput(String input) {
-    System.out.println(input);
+  public void greetInput(String inputOne, String inputTwo) {
+    System.out.println(inputOne);
+    System.out.println(inputTwo);
   }
 
   public void greetName() {
