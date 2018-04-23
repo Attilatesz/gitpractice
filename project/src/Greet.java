@@ -6,6 +6,10 @@ public class Greet {
     this.name = name;
   }
 
+  public void greetInput(String input) {
+    System.out.println(input);
+  }
+
   public void greetName() {
     System.out.println(name);
   }

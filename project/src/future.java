@@ -4,7 +4,7 @@ public class future {
     System.out.println(horoszkop);
   }
   public static void main(String[] args) {
-    String horoszkop = "nyilas";
+    String horoszkop = "Tiger";
     nyilas(horoszkop);
   }
 }
