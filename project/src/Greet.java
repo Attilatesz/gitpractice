@@ -11,7 +11,7 @@ public class Greet {
   }
 
   public void greetName() {
-    System.out.println("Greetings");
+    System.out.println("Greetings for the" + name);
   }
 
   public String getName() {
