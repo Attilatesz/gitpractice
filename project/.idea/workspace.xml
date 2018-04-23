@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="03ae3983-ca05-41ab-942c-9f6223c01f21" name="Default" comment="" />
+=======
+    <list default="true" id="0b93918c-9064-4caa-8e04-1d71fc2bb196" name="Default" comment="" />
+>>>>>>> 9d7844ab65758e5f3eb78dc681557863d4a557df
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,6 +16,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+<<<<<<< HEAD
       <file leaf-file-name="future.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/future.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -20,6 +25,18 @@
               <folding>
                 <element signature="e#63#64#0" expanded="true" />
                 <element signature="e#101#102#0" expanded="true" />
+=======
+      <file leaf-file-name="FirstClass.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FirstClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+              <folding>
+                <element signature="e#67#68#0" expanded="true" />
+                <element signature="e#83#84#0" expanded="true" />
+                <element signature="e#117#118#0" expanded="true" />
+                <element signature="e#149#150#0" expanded="true" />
+>>>>>>> 9d7844ab65758e5f3eb78dc681557863d4a557df
               </folding>
             </state>
           </provider>
@@ -34,6 +51,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -43,6 +61,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/future.java" />
+=======
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/FirstClass.java" />
+>>>>>>> 9d7844ab65758e5f3eb78dc681557863d4a557df
       </list>
     </option>
   </component>
@@ -61,6 +85,7 @@
     <option name="height" value="775" />
   </component>
   <component name="ProjectView">
+<<<<<<< HEAD
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
@@ -76,6 +101,12 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+=======
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+>>>>>>> 9d7844ab65758e5f3eb78dc681557863d4a557df
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -93,12 +124,17 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+<<<<<<< HEAD
+=======
+      <pane id="AndroidView" />
+>>>>>>> 9d7844ab65758e5f3eb78dc681557863d4a557df
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -118,7 +154,24 @@
       </list>
     </option>
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager">
+    <configuration name="FirstClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstClass" />
+      <module name="project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -195,6 +248,7 @@
       <listeners />
     </configuration>
     <recent_temporary>
+<<<<<<< HEAD
       <list size="1">
         <item index="0" class="java.lang.String" itemvalue="Application.future" />
       </list>
@@ -202,22 +256,40 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+=======
+      <list>
+        <item itemvalue="Application.FirstClass" />
+      </list>
+    </recent_temporary>
+<<<<<<< HEAD
+=======
+>>>>>>> 9d7844ab65758e5f3eb78dc681557863d4a557df
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="03ae3983-ca05-41ab-942c-9f6223c01f21" name="Default" comment="" />
       <created>1524477807267</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524477807267</updated>
       <workItem from="1524477808398" duration="182000" />
+=======
+      <changelist id="0b93918c-9064-4caa-8e04-1d71fc2bb196" name="Default" comment="" />
+      <created>1524477669892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524477669892</updated>
+      <workItem from="1524477674622" duration="265000" />
+>>>>>>> 9d7844ab65758e5f3eb78dc681557863d4a557df
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="182000" />
   </component>
   <component name="ToolWindowManager">
@@ -247,6 +319,41 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+=======
+    <option name="totallyTimeSpent" value="265000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+>>>>>>> 9d7844ab65758e5f3eb78dc681557863d4a557df
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,6 +362,7 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+<<<<<<< HEAD
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -278,10 +386,23 @@
           <folding>
             <element signature="e#63#64#0" expanded="true" />
             <element signature="e#101#102#0" expanded="true" />
+=======
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/FirstClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <folding>
+            <element signature="e#67#68#0" expanded="true" />
+            <element signature="e#83#84#0" expanded="true" />
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+>>>>>>> 9d7844ab65758e5f3eb78dc681557863d4a557df
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
   </component>
   <component name="masterDetails">
     <states>
@@ -356,5 +477,8 @@
         </settings>
       </state>
     </states>
+=======
+>>>>>>> 72e045738186830866229d406ffddb61598166fc
+>>>>>>> 9d7844ab65758e5f3eb78dc681557863d4a557df
   </component>
 </project>
