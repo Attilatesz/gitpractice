@@ -1,9 +1,10 @@
 public class future {
-  
-  public static void nyilas() {
-    System.out.println("nyilas");
+
+  public static void nyilas(String horoszkop) {
+    System.out.println(horoszkop);
   }
   public static void main(String[] args) {
-    nyilas();
+    String horoszkop = "nyilas";
+    nyilas(horoszkop);
   }
 }
