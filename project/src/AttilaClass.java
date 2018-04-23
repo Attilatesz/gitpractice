@@ -3,8 +3,8 @@ public class AttilaClass {
   public final int month = 12;
   private final int year = 28;
 
-  public int count(int year, int month){
-    return month + year;
+  public void count(int param){
+    System.out.println("Counting the countless " + param);
   }
 
   public void printAge(){
