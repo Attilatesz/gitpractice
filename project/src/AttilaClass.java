@@ -1,14 +1,14 @@
 public class AttilaClass {
 
   public final int month = 12;
-  private final int age = 28;
+  private final int year = 28;
 
-  public int age(){
-    return 1 + age;
+  public int count(int year, int month){
+    return month + year;
   }
 
   public void printAge(){
-    System.out.println(age);
+    System.out.println(year);
   }
 
   public void printMonth(){
