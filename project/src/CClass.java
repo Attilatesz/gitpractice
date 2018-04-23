@@ -1,5 +1,5 @@
 public class CClass {
-  public void cheer() {
-    System.out.println("A Team");
+  public void cheer(String param) {
+    System.out.println(param);
   }
 }
