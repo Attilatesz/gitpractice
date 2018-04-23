@@ -1,16 +1,20 @@
 public class Greet {
 
-  private String aName;
+  private String name;
 
-  public Greet(String aName) {
-    System.out.println(aName);
+  public Greet(String name) {
+    this.name = name;
   }
 
-  public String getaName() {
-    return aName;
+  public void greetName() {
+    System.out.println(name);
   }
 
-  public void setaName(String aName) {
-    this.aName = aName;
+  public String getName() {
+    return name;
+  }
+
+  public void setName(String name) {
+    this.name = name;
   }
 }
