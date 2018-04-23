@@ -7,7 +7,7 @@ public class Greet {
   }
 
   public void greetName() {
-    System.out.println(name);
+    System.out.println("Greetings");
   }
 
   public String getName() {
